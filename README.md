@@ -75,6 +75,8 @@ Multiple storage classes for different use cases and performance requirements:
 - **One Zone-IA:** Lower cost for infrequent access.
 - **Glacier:** Archival storage.
 
+![alt text](image.png)
+
 ### S3 Replication
 - **Cross-Region Replication (CRR):** Disaster recovery and compliance.
 - **Same-Region Replication (SRR):** Data resilience and low-latency access.
